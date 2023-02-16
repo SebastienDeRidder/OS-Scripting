@@ -1,3 +1,5 @@
 Naam: Sebastien De Ridder
 Studentnummer: 122681
 Ik ben graag met technologie bezig en probeer graag nieuwe dingen uit.
+
+Ik heb al met vele programmeertalen en scripting talen gewerkt maar degene waar ik het meest proficient in ben is waarschijnlijk Bash.
